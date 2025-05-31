@@ -32,7 +32,7 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 - 📌 **Personal Bio:** I am currently a B.Tech student in Computer Science, graduating in 2025.
 - 📌 **Tech Highlights:** Focused on Full-Stack Development, Java, UI/UX design, and Web Technologies.
 - 📌 **Featured Projects:** Real-time bus route tracker, Chatbot with NLP, Hospital Management System.
-- 📌 **Certifications:** Visit my LinkedIn for details | [LinkedIn Link](https://www.linkedin.com/in/vasunthraa-gopalsamy-0388742a2/)
+- 📌 **Certifications:** Visit my LinkedIn for details | [LinkedIn Link](https://www.linkedin.com/in/roshini-senthil-kumar-2877b62a3/)
 
 
 <hr>
