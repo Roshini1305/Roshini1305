@@ -5,4 +5,35 @@
     <img src="https://github.com/Roshini1305/Roshini1305/blob/main/Animation.gif?raw=true" width="500" alt="Typing Animation">
   </a>
 </p>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY0MWFidjdoand1dGQ4YTNucmt4Z2RkaGZ5Z3NneXBiN2prdm1yaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5lDNfS3kdjSdSrxQc/giphy.gif" width="500" alt="Coding Anime Girl">
+</p>
+
+
+<hr>
+
+
+## 🛠️ About Me
+
+
+Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive, user-friendly websites and applications. Whether it’s building robust backend systems, designing engaging frontends, or exploring the latest tech trends, I’m always eager to take on new challenges!
+
+• **Currently Learning:** Angular.js, MERN, Spring Boot & UI/UX  
+• **Tech Stack:** HTML, CSS, JavaScript, Node.js, React.js  
+• **Hobbies:** Coding, Editing Posters and Videos, Creating Games 🎮  
+• **Fun Fact:** I firmly believe that *"Debugging is twice as hard as writing the code."*
+
+
+<hr>
+
+
+## 🌟 Key Features of This Repo
+
+- 📌 **Personal Bio:** I am currently a B.Tech student in Computer Science, graduating in 2025.
+- 📌 **Tech Highlights:** Focused on Full-Stack Development, Java, UI/UX design, and Web Technologies.
+- 📌 **Featured Projects:** Real-time bus route tracker, Chatbot with NLP, Hospital Management System.
+- 📌 **Certifications:** Visit my LinkedIn for details | [LinkedIn Link](https://www.linkedin.com/in/vasunthraa-gopalsamy-0388742a2/)
+
+
+<hr>
 
