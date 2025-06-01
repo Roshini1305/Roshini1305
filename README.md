@@ -37,3 +37,26 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 <hr>
 
+
+
+### 📊 GitHub Stats<h3 align="center">🔥 GitHub Contribution Stats</h3>
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roshini1305&theme=radical&hide_border=false" alt="GitHub Streak"/>
+
+  
+
+  
+</div>
+
+<h3>📊 GitHub Insights</h3>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshini1305&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshini1305&layout=compact&theme=radical&hide_border=false" height="200"/>
+
+</div>
