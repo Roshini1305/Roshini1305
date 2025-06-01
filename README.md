@@ -91,3 +91,28 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 </p>
 
+
+
+<hr>
+
+## 🧩Libraries and Frameworks
+## 📜 Certifications & Achievements
+
+
+🎓 Educational Background:
+B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
+
+<p><b>📜 Certifications:</b></p>
+
+- Microsoft Excel Professional Certificate – Microsoft [Link] 
+
+- AWS Cloud Solutions Architect – Amazon Web Services [Link]
+ 
+- Java Foundations – Oracle [Link]
+
+- Database Management System – NPTEL [Link]
+
+<p align="left"> <!-- Web Development --> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><!-- DevOps --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
+
+<hr>
+
