@@ -124,9 +124,9 @@ B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
 
 | 🔍 **Project Name** | 📃 **Description** | 🛠️ **Tech Used** |
 |---------------------|--------------------|-------------------|
-| 🛒 [E-Commerce Site](https://github.com/vasunthraa325/E-COMMERCE-SITE) | A fully functional online shopping platform with cart and checkout. | React.js, Node.js, MongoDB |
-| 🚌 [MyBus Project](https://github.com/vasunthraa325/MYBUS-PROJECT) | A real-time bus tracking and route scheduling system. | HTML, CSS, JavaScript, Node.js |
-| 🏥 [Hospital Management System](https://github.com/vasunthraa325/Hospicare-360) | A system for managing patient records, appointments, and billing. | Java, Spring Boot, MySQL |
+| 🛒 [E-Commerce Site](https://github.com/Roshini1305/E-COMMERCE-SITE) | A fully functional online shopping platform with cart and checkout. | React.js, Node.js, MongoDB |
+| 🚌 [MyBus Project](https://github.com/Roshini1305/MYBUS_PROJECT) | A real-time bus tracking and route scheduling system. | HTML, CSS, JavaScript, Node.js |
+| 🏥 [Hospital Management System](https://github.com/Roshini1305/Hospi360) | A system for managing patient records, appointments, and billing. | Java, Spring Boot, MySQL |
 
 
 ### 🌐 Connect With Me
