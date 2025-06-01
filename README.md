@@ -120,4 +120,33 @@ B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
 - Database Management System – NPTEL [Link]
 
 
+### 🌟 Featured Projects
+
+| 🔍 **Project Name** | 📃 **Description** | 🛠️ **Tech Used** |
+|---------------------|--------------------|-------------------|
+| 🛒 [E-Commerce Site](https://github.com/vasunthraa325/E-COMMERCE-SITE) | A fully functional online shopping platform with cart and checkout. | React.js, Node.js, MongoDB |
+| 🚌 [MyBus Project](https://github.com/vasunthraa325/MYBUS-PROJECT) | A real-time bus tracking and route scheduling system. | HTML, CSS, JavaScript, Node.js |
+| 🏥 [Hospital Management System](https://github.com/vasunthraa325/Hospicare-360) | A system for managing patient records, appointments, and billing. | Java, Spring Boot, MySQL |
+
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:roshini.cse.vsb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/roshini-senthil-kumar-2877b62a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Roshini1305">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/roshini_senthil/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/roshini_cse_vsb">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+
 
